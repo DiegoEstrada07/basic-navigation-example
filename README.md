@@ -1,1 +1,1 @@
-# basic-navigation-example
+example of basic web site navigation.
